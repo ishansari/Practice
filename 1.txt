@@ -3,3 +3,5 @@ Assalamu alaikum
 This line is being added by operate branch 
 
 Final merge test with this addition of line
+
+This is for practicing merge conflict.
